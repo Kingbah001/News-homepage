@@ -1,5 +1,5 @@
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:750px) {
     .main{
         margin-top: 70px;
         width: 100%;
@@ -33,7 +33,10 @@
         justify-content: center;
     }
     .card-box{
-        width: 48%;
+        width: 50%;
+    }
+    .image-content span{
+        font-size: 10px !important;
     }
     .nav-mobile {
         display: flex;
