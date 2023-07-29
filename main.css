@@ -293,6 +293,7 @@
 .main-down {
     /* border: 3px solid red; */
     display: flex;
+    flex-wrap: wrap;
     margin-top: 40px;
     font-family: Arial, Helvetica, sans-serif;
     justify-content: space-between;
